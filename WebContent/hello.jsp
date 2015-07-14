@@ -9,6 +9,8 @@
 <title><mm:message key="hello.title"/></title>
 </head>
 <body>
+
+<b> <mm:htag> this is htag </mm:htag></b>
 <b> <mm:message key="hello.hi"/>: ${param.username}</b>
 </body>
 </html>

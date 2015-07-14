@@ -27,4 +27,8 @@
 <required>true</required>
 </attribute>
 </tag>
+<tag>
+<name>htag</name>
+<tag-class>mypack.Htag</tag-class>
+</tag>
 </taglib>
